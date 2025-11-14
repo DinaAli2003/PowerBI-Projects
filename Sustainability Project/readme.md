@@ -1,4 +1,4 @@
-# 🌳 Project README: Global Sustainability Performance & Impact Analyzer
+# 🌳  Global Sustainability Performance & Impact Analyzer
 
 ## 1. Project Title: **Global Sustainability Performance & Impact Analyzer** 🌍
 
