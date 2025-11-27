@@ -2,7 +2,7 @@
  # E-commerce Sales project (PowerBI)
 ---
 
-# 🛒 Project README: E-Commerce Sales Performance Dashboard
+# 🛒  E-Commerce Sales Performance Dashboard
 
 ---
 
@@ -88,6 +88,8 @@ This dashboard is highly interactive, utilizing **Slicers and Cross-Filtering** 
 
 ---
 *Developed for: E-Commerce Operations, Sales, and Marketing Teams*
+
 *Tool: Power BI / Advanced Data Visualization Platform*
+
 *Date: September 2025*
 
