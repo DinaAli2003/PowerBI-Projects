@@ -1,6 +1,6 @@
 # Adidas Project (PowerBI)
 
-# 👟 Project README: Retail Sales & Profit Performance Dashboard
+# 👟  Retail Sales & Profit Performance Dashboard
 
 ---
 
