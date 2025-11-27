@@ -1,7 +1,7 @@
 # HR-Project using PowerBI
 ---
 
-# 👩‍💻 Project README: Interactive HR Analytics Dashboard
+# 👩‍💻 Interactive HR Analytics Dashboard
 
 ---
 
@@ -87,7 +87,9 @@ The HR Dashboard is fully interactive, allowing users to **filter all data point
 
 ---
 *Developed for: Strategic HR Management*
+
 *Tool: Power BI / Advanced Data Visualization Platform*
+
 *Date: September 2025*
 
 
