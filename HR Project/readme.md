@@ -1,4 +1,4 @@
-# HR-Project using PowerBI
+# Human Resources Management (HRM) Project (PowerBI)
 ---
 
 # 👩‍💻 Interactive HR Analytics Dashboard
