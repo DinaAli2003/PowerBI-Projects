@@ -1,6 +1,6 @@
 # Call Center Project (PowerBI)
 
-# 📞 Project README: Call Center Performance & CX Dashboard
+# 📞  Call Center Performance & CX Dashboard
 
 ---
 
@@ -69,6 +69,8 @@ The Call Center Dashboard is built for dynamic analysis, leveraging **Slicers an
 
 ---
 *Developed for: Operations & CX Leadership*
+
 *Tool: Data Visualization Platform (Power BI / Tableau)*
+
 *Date: September 2025*
 
