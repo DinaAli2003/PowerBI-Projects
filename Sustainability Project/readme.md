@@ -1,6 +1,6 @@
-# 🌳  Global Sustainability Performance & Impact Analyzer
+# 🌳  Sustainability Project (PowerBI)
 
-## 1. Project Title: **Global Sustainability Performance & Impact Analyzer** 🌍
+## 1. Project Title:  Sustainability Dashboard Analysis  🌍
 
 ***
 
@@ -101,3 +101,4 @@ The entirety of this reporting suite is developed and maintained within the **Mi
 | :---: | :--- | :--- |
 | **📂** | **Core Asset** | The primary analytical file is the Power BI report (`Sustainability Project.pbix`). All data connections, data models, calculations, and visualizations are encapsulated within this single file. |
 | **📄** | **Documentation** | This README provides the necessary technical and content context. 
+
