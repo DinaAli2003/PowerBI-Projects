@@ -67,6 +67,8 @@ The dashboard utilizes robust **Slicer and Filtering** functionality, allowing u
 
 ---
 *Developed for: Sales, Marketing, and Executive Leadership*
+
 *Tool: Power BI / Advanced Data Visualization Platform*
+
 *Date: September 2025*
 
